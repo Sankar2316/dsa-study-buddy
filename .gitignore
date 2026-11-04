@@ -1,0 +1,7 @@
+venv/
+package/
+function.zip
+site.html
+trust.json
+policy.json
+__pycache__/
