@@ -40,4 +40,4 @@ python agent.py
 Free, always-available, personalized DSA mentoring in the student's own language.
 
 ## Built with
-Strands Agents SDK · Amazon Bedrock · AWS Lambda · API Gateway · DynamoDB · S3
+Strands Agents SDK · Amazon Bedrock · AWS Lambda · API Gateway · DynamoDB · S3 . IAM
